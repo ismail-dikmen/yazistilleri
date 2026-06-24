@@ -1,9 +1,9 @@
-# Unicode Şekilli Yazı Oluşturucu Çekirdek Algoritması
+# Unicode Yazı Stilleri Oluşturucu Çekirdek Algoritması
 
-Bu depo, standart Latin metinlerini harf harf işleyerek estetik ve şekilli yazı varyasyonlarına (Matematiksel Alfasayısal Unicode Sembolleri) dönüştüren hafif ve açık kaynaklı JavaScript çekirdek fonksiyonlarını içermektedir.
+Bu depo, standart Latin metinlerini harf harf işleyerek estetik ve şekilli yazı stilleri varyasyonlarına (Matematiksel Alfasayısal Unicode Sembolleri) dönüştüren hafif ve açık kaynaklı JavaScript çekirdek fonksiyonlarını içermektedir.
 
 ## Proje Bilgileri
-- **Geliştirici:** İsmail DİKMEN
+- **Geliştirici:** [İsmail DİKMEN](https://ismail.com.tr)
 - **Resmi Canlı Web Aracı:** [yazistilleri.web.tr](https://yazistilleri.web.tr)
 - **Temel Kullanım Alanları:** Özel oyun nickleri (PUBG, Brawl Stars, Valorant), Instagram biyografi süsleme, Discord ve WhatsApp yazı tipi özelleştirme.
 
